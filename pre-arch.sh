@@ -62,4 +62,5 @@ mount $efi_partition /mnt/boot
 swapon $swap_partition
 
 # Step 9: Done, ready to run archinstall
+
 echo "System is ready. You can now run the archinstall script."
