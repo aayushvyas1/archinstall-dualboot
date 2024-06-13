@@ -4,9 +4,9 @@ This is guide for using archinstall script preloaded in iso, preparing the mount
 
 To use the given script 
 
-Make it executable with `chmod +x prep_arch_install.sh`
+Make it executable with `chmod +x prep_arch.sh`
 
-Run the script with sudo `./prep_arch_install.sh`
+Run the script with sudo `./prep_arch.sh`
 
 Or do it manually
 
