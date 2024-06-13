@@ -2,6 +2,14 @@
 
 This is guide for using archinstall script preloaded in iso, preparing the mount points and prerequisits for a error less sucessfull install of the new system. I'll make a script for automated install later.  
 
+To use the given script 
+
+Make it executable with `chmod +x prep_arch_install.sh`
+
+Run the script with sudo `./prep_arch_install.sh`
+
+Or do it manually
+
 1, iwctl :-
 
     device list
