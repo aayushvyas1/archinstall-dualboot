@@ -1,5 +1,7 @@
 # archinstall-dualboot
 
+This is guide for using archinstall script preloaded in iso, preparing the mount points and prerequisits for a error less sucessfull install of the new system. I'll make a script for automated install later.  
+
 1, iwctl :-
 
     device list
